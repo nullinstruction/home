@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Grayscale
 email: your-email@domain.com
@@ -28,3 +29,6 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+=======
+theme: jekyll-theme-cayman
+>>>>>>> origin/master
