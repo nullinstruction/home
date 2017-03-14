@@ -1,2 +1,5 @@
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
 RewriteRule .* ? [F,L]
+
+RewriteCond %{HTTP_HOST} ^XXX\.XXX\.XXX\.XXX
+RewriteRule (.*) http://ewinia.com [R=301,L]
