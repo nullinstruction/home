@@ -1,4 +1,8 @@
-User-agent: Googlebot
-Disallow:
-
-sitemap: http://ewinia.com
+Sitemap: http://ewinia.com/sitemap.xml
+User-agent: *
+Disallow: /img/
+Disallow: /_layouts/
+Disallow: /js/
+Disallow: /less/
+Disallow: /saas/
+Disallow: /vendor/      
