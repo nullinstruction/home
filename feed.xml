@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>EWINIA Education | Game | Application | IT</title>
+    <link>http://ewinia.com</link>
+    <description>EWINIA will raise Mountainous Waves in Online and Mobile App Markets.</description>
+    <language>en-us</language>
+    <managingEditor>info@ewinia.com</managingEditor>
+    <webMaster>info@ewinia.com</webMaster>
+    <copyright>2015</copyright>
+    <image>
+      <title>EWINIA Education | Game | Application | IT</title>
+      <link>http://ewinia.com</link>
+      <url>http://ewinia.com/favicon.png</url>
+    </image>
+    <item>
+      <title>New RSS Post</title>
+      <pubDate>Tue, 14 Mar 2017 11:03:57 +0900</pubDate>
+      <link>http://ewinia.com</link>
+      <author>info@ewinia.com</author>
+      <comments>http://ewinia.com</comments>
+      <category>education, game, application, mobile, it</category>
+      <description><![CDATA[<a href="http://ewinia.com"> Click here to visit our website!</a>]]></description>
+    </item>
+  </channel>
+</rss>
