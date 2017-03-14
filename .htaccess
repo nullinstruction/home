@@ -1,4 +1,0 @@
-
-RewriteEngine on 
-RewriteCond %{HTTP_HOST} ^192\.30\.252\.154 
-RewriteRule (.*) http://ewinia.com [R=301,L]
